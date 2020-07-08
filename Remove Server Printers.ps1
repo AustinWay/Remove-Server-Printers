@@ -1,6 +1,6 @@
 <#
 Program: Remove Server Printers
-Description: Powershell script that removes all network connected printers from a particular server on a local machine
+Description: Powershell script that removes all network connected printers from a particular server on a Windows 10 user account
 Author: Austin Way
 Date: 6/25/2020
 #>
